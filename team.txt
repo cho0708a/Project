@@ -1,5 +1,0 @@
-First Name : Daniel
-Last Name : Fortunato
-Student ID : 216796443
-login : danifort
-Email : dani.fortuna97@gmail.com
